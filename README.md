@@ -1,4 +1,4 @@
-# 🥋 Análise e Clusterização de Atletas de Jiu-Jitsu por ELO Rating
+# 🥋 Criando e aplicando Ranqueamento por ELO RATING no Jiu-jitsu
 
 ## 📊 Ranking Competitivo e Dinâmica do Alto Rendimento no Jiu-Jitsu
 
