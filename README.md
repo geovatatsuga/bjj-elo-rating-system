@@ -2,11 +2,13 @@
 
 ## 📊 Ranking Competitivo e Dinâmica do Alto Rendimento no Jiu-Jitsu
 
-Este projeto foi desenvolvido como uma pipeline completa de análise de dados esportivos, integrando as etapas de extração, tratamento e organização de grandes volumes de informações históricas sobre lutas e atletas de Jiu-Jitsu. O histórico de combates foi coletado via web scraping automatizado diretamente do BJJ Heroes, garantindo uma base atualizada e confiável.
+Este projeto foi desenvolvido como uma pipeline completa de análise de dados esportivos, abrangendo as etapas de extração, tratamento e organização de grandes volumes de informações históricas sobre lutas e atletas de Jiu-Jitsu. O histórico de combates foi obtido via web scraping automatizado do BJJ Heroes, uma das maiores bases de dados do esporte, assegurando informações atualizadas e confiáveis.
 
-A etapa de processamento dos dados envolveu a limpeza, normalização e construção de variáveis fundamentais, como ELO Rating, taxa de vitória, número de finalizações e cluster competitivo. As análises exploratórias e visualizações interativas foram desenvolvidas utilizando Python, pandas, matplotlib e seaborn, facilitando a compreensão da evolução dos principais atletas, bem como o mapeamento de diferentes perfis competitivos ao longo das gerações.
+O diferencial do projeto é o uso do ELO Rating, um sistema de pontuação criado originalmente para o xadrez, que permite quantificar de maneira objetiva a força e evolução de cada atleta ao longo do tempo. A cada combate, o ELO do lutador é ajustado de acordo com o resultado e o nível do oponente, tornando possível comparar desempenhos entre diferentes gerações, estilos e trajetórias.
 
-O projeto possibilita não só identificar os grandes campeões do esporte de forma objetiva e quantitativa, mas também analisar rivalidades históricas, padrões de progressão e o impacto de diferentes estilos de carreira. Essa abordagem moderna e escalável transforma dados brutos em conhecimento estratégico para atletas, treinadores, estudiosos e fãs do Jiu-Jitsu.
+Durante o processamento, os dados passaram por etapas de limpeza, normalização e construção de variáveis fundamentais, como taxa de vitória, número de finalizações e classificação competitiva em clusters. As análises exploratórias e as visualizações interativas foram desenvolvidas com Python, pandas, matplotlib e seaborn, proporcionando uma visão clara da progressão dos atletas e do cenário competitivo como um todo.
+
+Com isso, o projeto permite não só identificar os grandes campeões do Jiu-Jitsu de forma quantitativa, mas também analisar rivalidades históricas, padrões de ascensão e declínio, além do impacto de diferentes estratégias de carreira. Essa abordagem transforma dados brutos em conhecimento prático e estratégico para atletas, treinadores, pesquisadores e fãs do esporte.
 
 ---
 
