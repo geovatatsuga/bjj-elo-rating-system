@@ -56,7 +56,6 @@ Neste projeto, buscamos responder essas perguntas com:
 ## 📂 Estrutura do Projeto
 
 ```plaintext
-DADOS/                        # Dados finais tr
-atados e prontos para análise, porém também incluí os dados brutos
+DADOS/                        # Dados finais tratados e prontos para análise, porém também incluí os dados brutos
 RELATORIO_RASCUNHO/           # Rascunhos e o Relatório com os resultados.
 README.md                     # Este arquivo com descrição e documentação do projeto
