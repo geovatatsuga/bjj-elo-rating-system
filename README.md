@@ -2,6 +2,8 @@
 
 ## 📊 Ranking Competitivo e Dinâmica do Alto Rendimento no Jiu-Jitsu
 
+Leia no Medium : https://medium.com/@jeova.anderson/do-xadrez-ao-jiu-jitsu-usando-o-elo-rating-para-identificar-o-melhor-e-mapear-perfis-de-eca8950df773
+
 Este projeto foi desenvolvido como uma pipeline completa de análise de dados esportivos, abrangendo as etapas de extração, tratamento e organização de grandes volumes de informações históricas sobre lutas e atletas de Jiu-Jitsu. O histórico de combates foi obtido via web scraping automatizado do BJJ Heroes, uma das maiores bases de dados do esporte, assegurando informações atualizadas e confiáveis.
 
 O diferencial do projeto é o uso do ELO Rating, um sistema de pontuação criado originalmente para o xadrez, que permite quantificar de maneira objetiva a força e evolução de cada atleta ao longo do tempo. A cada combate, o ELO do lutador é ajustado de acordo com o resultado e o nível do oponente, tornando possível comparar desempenhos entre diferentes gerações, estilos e trajetórias.
