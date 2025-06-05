@@ -1,6 +1,6 @@
 # 🥋 Criando e aplicando Ranqueamento por ELO RATING no Jiu-jitsu
 
-## 📊 Ranking Competitivo e Dinâmica do Alto Rendimento no Jiu-Jitsu
+## 📊 
 
 Leia no Medium : https://medium.com/@jeova.anderson/do-xadrez-ao-jiu-jitsu-usando-o-elo-rating-para-identificar-o-melhor-e-mapear-perfis-de-eca8950df773
 
